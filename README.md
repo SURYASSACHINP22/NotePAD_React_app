@@ -28,6 +28,7 @@ This application allows users to create, edit, and delete notes, with data persi
 ---
 
 ## 📁 Project Structure
+
 ├── public/
 │   └── index.html
 ├── src/
@@ -61,17 +62,15 @@ This application allows users to create, edit, and delete notes, with data persi
 
 2.**Install dependencies:**
 
-bash
-npm install
+  npm install
 
 3.**Start the development server:**
 
-bash
 npm run dev
 
 3.**Open the application:**
 
-Visit http://localhost:5173 in your web browser.
+    Visit http://localhost:5173 in your web browser.
 
 ##🧠 Understanding the Core Concepts
 
